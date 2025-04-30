@@ -81,13 +81,13 @@ php artisan storage:link
 php artisan serve
 ```
 
-## 🧪 Run tests
+## Run tests
 
 ```bash
 php artisan test
 ```
 
-## 💬 Notes
+## Notes
 
 - All code and comments are in English, as the target company is based in the UK.
 - The API is functional via `http://localhost/api/users` or `http://127.0.0.1/public/api/users` in a local XAMPP environment.
